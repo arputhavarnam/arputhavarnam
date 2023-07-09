@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arputhavarnam
-- 👀 I’m interested in gadgets 📱💻
-- 🌱 I’m currently learning Data structure
+- 👨‍💻 Software Engineer
+- 💻 Tech Enthusiast
 - 📫 How to reach me arputhavarnam@gmail.com
 
 <!---
