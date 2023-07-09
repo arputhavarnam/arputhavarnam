@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @arputhavarnam
+- 👋 Hi, I’m @arputhavarna
 - 👨‍💻 Software Engineer
 - 💻 Tech Enthusiast
-- 📫 How to reach me arputhavarnam@gmail.com
+- 📫 How to reach me arputhavarna@gmail.com
 
 <!---
 arputhavarnam/arputhavarnam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
